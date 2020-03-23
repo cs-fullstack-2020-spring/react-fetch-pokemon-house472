@@ -1,5 +1,6 @@
 # Use the external Pokedex API
-
+#### You used the wrong url to access the api. Check out my other comments in your AppContainer.jsx file. 
+#### Score : 1/5
 Write a simple application for displaying pokemon from the API https://pokeapi.co/
 
 Start by just displaying the Pokemon names in a grid with a header on the page.
